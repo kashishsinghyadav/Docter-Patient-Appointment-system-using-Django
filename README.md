@@ -23,3 +23,8 @@ Patient Registration page
 
 
 
+![Screenshot (8)](https://user-images.githubusercontent.com/117498422/232307075-e3e1baa3-ace6-4201-a7ce-7d2b80037626.png)
+
+
+
+
