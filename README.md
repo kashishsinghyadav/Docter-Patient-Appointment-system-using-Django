@@ -19,6 +19,8 @@ Docter Registration page
 Patient Registration page
 
 
+Final appointment page when your appointment is successful
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/117498422/232306936-766bf709-8090-4973-96d6-78854d40f972.png)
 
 
