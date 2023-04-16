@@ -17,3 +17,7 @@ Docter Registration page
 ![Screenshot (5)](https://user-images.githubusercontent.com/117498422/232306767-f92bade5-7330-438e-a84e-a9c82bd9589b.png)
 
 
+![Screenshot (6)](https://user-images.githubusercontent.com/117498422/232306936-766bf709-8090-4973-96d6-78854d40f972.png)
+
+
+
