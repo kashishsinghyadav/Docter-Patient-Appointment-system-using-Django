@@ -6,3 +6,8 @@ This is the UI when the user first time open the website
  THIS the ADMIN login page
  
 ![Screenshot (3)](https://user-images.githubusercontent.com/117498422/232306369-7988b8ea-6b87-4a16-a239-5ebef20c9ba9.png)
+
+THIS IS THE PATIENT LOGIN PAGE
+
+![Screenshot (4)](https://user-images.githubusercontent.com/117498422/232306686-70a54942-f90e-4fc2-b368-a4297e394ca2.png)
+
